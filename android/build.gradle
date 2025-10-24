@@ -18,7 +18,7 @@ android {
         namespace 'com.simform.flutter_credit_card'
     }
 
-    compileSdk 31
+    compileSdk 36
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
